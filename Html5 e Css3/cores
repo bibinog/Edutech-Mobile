@@ -1,0 +1,17 @@
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+#_ _ _ _ _ _
+0 = ausência  F = máximo
+
+#000000 - black
+#FFFFFF - white
+
+#FF0000 - red
+
+Linguagem RGB no css
+rgb = 0,1,2,3,4....255
+ 
+ rgb(255,255,255) - white
+ rgb(0,0,0) - black
